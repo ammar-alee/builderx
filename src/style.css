@@ -1,0 +1,12 @@
+@font-face {
+        font-family: "ibm-plex-sans-regular";
+        src: url("./assets/fonts/ibm-plex-sans-regular.ttf") format("truetype");
+      }
+@font-face {
+        font-family: "ibm-plex-sans-700";
+        src: url("./assets/fonts/ibm-plex-sans-700.ttf") format("truetype");
+      }
+@font-face {
+        font-family: "ibm-plex-sans-500";
+        src: url("./assets/fonts/ibm-plex-sans-500.ttf") format("truetype");
+      }
